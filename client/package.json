@@ -11,7 +11,7 @@
     "face-api.js": "^0.22.1",
     "jwt-decode": "^2.2.0",
     "keymaster": "^1.6.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "normalize.css": "^8.0.1",
     "react": "^16.13.0",
     "react-awesome-slider": "^4.1.0",
